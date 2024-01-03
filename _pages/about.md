@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.
-  
+---
 About Me
 ======
   I am a 4th-year student at PES University. <br>
