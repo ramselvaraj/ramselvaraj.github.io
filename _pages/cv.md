@@ -17,17 +17,23 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| Category             | Technologies                                  |
+|----------------------|-----------------------------------------------|
+| Cloud/DevOps        | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
+| Web Development     | HTML, CSS, React, MongoDB, Flask             |
+| AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
+| Programming Languages | Python, R, MySQL, C, C++                      |
+
+
 
 Work experience
 ======
 * Intern (Wipro)
   * 06/2023 - 11/2023
+
+* Teaching Assitant (PES University)
+  * 01/2024 - present
+  * Teaching assistant for the course 'Topics in Deep Learning'
 
 * Software Trainee (Logituit)
   * 02/2024 - present
@@ -45,7 +51,15 @@ Awards
 
 * Distinction Award - 5th Semester
   * Awarded to the top 25% students in the department.
- 
+
+Projects
+======
+* **Creating Animated Videos with Temporal Consistency and Sequential Storylines from
+Scripts**
+  * **Script to Video** w/ **Latent Diffusion Models**, and novel additions to maintain story and
+temporal consistency
+
+* 
 Publications
 ======
   <ul>{% for post in site.publications %}
