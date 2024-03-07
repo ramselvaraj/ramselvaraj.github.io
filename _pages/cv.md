@@ -18,12 +18,11 @@ Education
 Skills
 ======
 | Category             | Technologies                                  |
-|----------------------|-----------------------------------------------|
+|:---------------------|:----------------------------------------------|
 | Cloud/DevOps        | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
-| Web Development     | HTML, CSS, React, MongoDB, Flask             |
+| Web Development     | HTML, CSS, React, MongoDB, Flask              |
 | AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
-| Programming Languages | Python, R, MySQL, C, C++                      |
-
+| Programming Languages | Python, R, MySQL, C, C++                     |
 
 
 Work experience
