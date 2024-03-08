@@ -23,24 +23,12 @@ Skills
 ======
 
 | Domain             | Technologies                                  |
-|---------------------|----------------------------------------------|
+|---------------------|------------------------------|
 | Cloud/DevOps        | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
 | Web Development     | HTML, CSS, React, MongoDB, Flask              |
 | AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
 | Programming Languages | Python, R, MySQL, C, C++                     |
 
-| Domain | Technologies |
-|-------|------------------------------------|
-| Cloud/DevOps | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
-| Web Development | HTML, CSS, React, MongoDB, Flask |
-| AI/ML | Tensorflow, PyTorch, Scikit Learn |
-| Programming Languages | Python, C, C++, R, MySQL, Java |
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 Work experience
 ======
