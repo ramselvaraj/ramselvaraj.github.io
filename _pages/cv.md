@@ -11,14 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Computer Science & Engineering, **PES University**, 2020-present
-* 12th Grade, Royale Concorde International School, 2020
-* 10th Grade,CMR National Public School 2018
+* **B.Tech**
+ * Computer Science & Engineering
+ * PES University
+ * 2020-present
+* **12th Grade**
+ * Royale Concorde International School
+ * 2020
+* **10th Grade**
+ * CMR National Public School 
+ * 2018
 
 Skills
 ======
-| Category             | Technologies                                  |
-|:---------------------|:----------------------------------------------|
+| Domain             | Technologies                                  |
+|---------------------|----------------------------------------------|
 | Cloud/DevOps        | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
 | Web Development     | HTML, CSS, React, MongoDB, Flask              |
 | AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
