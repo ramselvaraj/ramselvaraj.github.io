@@ -11,16 +11,13 @@ redirect_from:
 
 Education
 ======
-* **B.Tech**
- * Computer Science & Engineering
- * PES University
- * 2020-present
-* **12th Grade**
- * Royale Concorde International School
- * 2020
-* **10th Grade**
- * CMR National Public School 
- * 2018
+- **B.Tech**, 2020-present
+ - Computer Science & Engineering
+ - PES University
+- **12th Grade**, 2020
+ - Royale Concorde International School
+- **10th Grade**, 2018
+ - CMR National Public School 
 
 Skills
 ======
@@ -31,6 +28,11 @@ Skills
 | AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
 | Programming Languages | Python, R, MySQL, C, C++                     |
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 Work experience
 ======
