@@ -12,34 +12,21 @@ redirect_from:
 Education
 ======
 - **B.Tech**, 2020-present
- - Computer Science & Engineering
- - PES University
+  - Computer Science & Engineering
+  - PES University
 - **12th Grade**, 2020
- - Royale Concorde International School
+  - Royale Concorde International School
 - **10th Grade**, 2018
- - CMR National Public School 
+  - CMR National Public School 
 
 Skills
 ======
-| Domain             | Technologies                                  |
-|---------------------|----------------------------------------------|
-| Cloud/DevOps        | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
-| Web Development     | HTML, CSS, React, MongoDB, Flask              |
-| AI/ML               | Tensorflow, PyTorch, Scikit Learn, LLMs, LDMs |
-| Programming Languages | Python, R, MySQL, C, C++                     |
-
 | Domain | Technologies |
-|-------|------------------------------------|
+|-------|-------------------------|
 | Cloud/DevOps | REST API, AWS, Docker, Git, Jenkins, Kubernetes, MySQL |
 | Web Development | HTML, CSS, React, MongoDB, Flask |
 | AI/ML | Tensorflow, PyTorch, Scikit Learn |
 | Programming Languages | Python, C, C++, R, MySQL, Java |
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 Work experience
 ======
