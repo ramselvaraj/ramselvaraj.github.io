@@ -14,12 +14,12 @@ redirect_from:
 Education
 ======
 - **B.Tech**, 2020-present
- - Computer Science & Engineering
- - PES University
+  - Computer Science & Engineering
+  - PES University
 - **12th Grade**, 2020
- - Royale Concorde International School
+  - Royale Concorde International School
 - **10th Grade**, 2018
- - CMR National Public School 
+  - CMR National Public School 
 
 Skills
 ======
