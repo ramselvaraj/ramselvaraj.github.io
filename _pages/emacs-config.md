@@ -1,7 +1,8 @@
 ---
-permalink: /emacs-config/
+permalink: /emacs-config
 title: "Emacs Config"
-author_profile: true 
+author_profile: true
+redirect_from:  
 ---
 
 {% include base_path %}

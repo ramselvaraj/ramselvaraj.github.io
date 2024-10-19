@@ -13,4 +13,4 @@ main:
     url: /cv/
     
   - title: "Emacs Config"
-    url: /emacs-config/
+    url: /emacs-config
