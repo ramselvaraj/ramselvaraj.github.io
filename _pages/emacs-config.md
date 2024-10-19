@@ -1,11 +1,11 @@
 ---
-permalink: /emacs-config
+permalink: /emacs-config/
 title: "Emacs Config"
 author_profile: true
-redirect_from: 
+redirect_from: /emacs-config/ 
 ---
 
-
+{% include base_path %}
 ```lua
 -- Define a table
 local person = {
