@@ -1,8 +1,7 @@
 ---
 permalink: /emacs-config/
 title: "Emacs Config"
-author_profile: true
-redirect_from: /emacs-config/ 
+author_profile: true 
 ---
 
 {% include base_path %}
