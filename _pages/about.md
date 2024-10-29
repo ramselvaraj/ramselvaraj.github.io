@@ -9,8 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-  I am a 4th-year student at PES University. <br>
-  My interests are broadly in the fields of Machine Learning, Edge computing and Linux <br>
+  My interests are broadly in the fields of Machine Learning, Edge computing and Linux Systems Programming<br>
   If you have any questions or are interested in collaborating, please feel free to contact me.
 
 <!-- Education -->
