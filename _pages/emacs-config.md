@@ -6,6 +6,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+### Doom Emacs 
+
+![Doom-Emacs-Screenshot](/files/images/emacs.png)
+
 ```lisp
 ;;; $DOOMDIR/config.el -*- lexical-binding: t; -*-
 
