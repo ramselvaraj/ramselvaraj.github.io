@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Download my Resume here](www.google.com)
+[Download my Resume here](http://ramselvaraj.github.io/files/ramselvaraj_resume.pdf)
 
 
 <object data="/files/ramselvaraj_resume.pdf" width="1000" height="1000" type='application/pdf'></object>
