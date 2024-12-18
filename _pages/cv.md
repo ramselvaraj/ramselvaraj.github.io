@@ -11,7 +11,10 @@ redirect_from:
 
 [Download my Resume here](www.google.com)
 
-Education
+
+<object data="/files/ramselvaraj_resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<!-- Education
 ======
 - **B.Tech**, 2020-present
   - Computer Science & Engineering
@@ -111,7 +114,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  --!>
 <!-- Talks -->
 <!-- ====== -->
 <!--   <ul>{% for post in site.talks %} -->
