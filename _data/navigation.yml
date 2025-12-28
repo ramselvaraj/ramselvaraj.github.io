@@ -13,7 +13,7 @@ main:
     url: /cv/
     
   - title: "Emacs Config"
-    url: /emacs-config/
+    url: /emacs-config
 
   - title: "Video Edits"
-    url: /video-edits/
+    url: /video-edits
