@@ -9,6 +9,8 @@ redirect_from:
 
 ## Story Based Edits
 
+https://x.com/ramsel84/status/1966936277431054605?s=20
+
 <blockquote class="twitter-tweet">
   <a href="https://x.com/ramsel84/status/1966936277431054605?s=20"></a>
 </blockquote>
