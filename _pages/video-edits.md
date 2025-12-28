@@ -1,5 +1,5 @@
 ---
-permalink: /video-edits
+permalink: /video-edits/
 title: "Video Edits"
 author_profile: true
 redirect_from:  
